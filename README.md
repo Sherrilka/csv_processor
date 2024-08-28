@@ -1,4 +1,3 @@
-PŘEDSTAVENÍ:
 Aplikace přijímá od uživatele dva csv soubory, ze kterých načte data a následně je zpracuje do dvou tabulek. Využívá pouze PHP a Bootstrap.
 
 INSTALACE/SPUŠTĚNÍ:
